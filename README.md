@@ -67,8 +67,3 @@ npm run build
 Deploy to:
 - Vercel: `vercel`
 - Netlify: `netlify deploy --prod`
-- Heroku: `git push heroku main`
-
-## 📝 License
-
-MIT
